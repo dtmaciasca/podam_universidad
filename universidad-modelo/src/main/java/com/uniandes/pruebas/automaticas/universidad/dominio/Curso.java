@@ -5,6 +5,7 @@ import java.util.List;
 public class Curso {
 
     private String nombre;
+    //Inserte aqui la estrategia de nivel de atributo
     private Integer creditos;
     private String codigo;
     private List<Estudiante> estudiantes;
